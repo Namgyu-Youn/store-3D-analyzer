@@ -1,0 +1,9 @@
+Zone Dwell Time Analysis
+======================
+
+Zone: 신발구역
+Average dwell time: 4.17 seconds
+Maximum dwell time: 6.80 seconds
+Minimum dwell time: 0.07 seconds
+Number of visits: 3
+
